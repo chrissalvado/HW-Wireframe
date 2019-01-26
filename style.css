@@ -11,8 +11,8 @@ body{
 header{
     text-align: center;
     background:#ebebeb;
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-top: 4%;
+    padding-bottom: 4%;
 
 }
 
@@ -28,31 +28,57 @@ nav{
 footer{
     text-align: center;
     background:#ebebeb;
-    padding-bottom: 3%;
-    padding-top: 3%
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-top:50px;
+
+
+    
+}
+aside{
+    float:right;
+    padding-left:200px;
+
+
 }
 h1{
+    text-align:left;
     color:#777;
     font-size:medium;
     background:#ebebeb;
     float: right;
     width:250px;
     height: 250px;
-    padding-bottom: 6%
+    padding-top: 6%;
+    padding-left:150px;
+    padding-bottom:6%;
+    margin-inline-start:55%;
+
+
 }   
 
+
 h2{
-    font-size:medium;
+    font-weight:normal;
+    color:#777;
+    background:#ebebeb;
+    text-align: center;
     float:left;
-}
-.article{
-    color:white;
-    background-color:#777;
-
-
+    padding-top:6%;
+    width: 250px;
+    height:250px;
 }
 
-.article > p{
-    background-color: #ebebeb;
-    color:#777
+section{
+    text-align:center;
+    color:#777;
+    background:#ebebeb;
+    padding-top:6%;
+    padding-bottom: 6%;
+    margin-inline-end: 45%;
+    height:150px;
+    border:10px solid #ebebeb;
+
+
+
 }
