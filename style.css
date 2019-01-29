@@ -30,7 +30,7 @@ footer{
     background:#ebebeb;
     padding-bottom: 5%;
     padding-top: 5%;
-    margin-top:50px;
+    margin-top:25px;
 
 
     
@@ -38,9 +38,8 @@ footer{
 aside{
     float:right;
     padding-left:200px;
-    padding-bottom:6%;
     width: 250px;
-    padding-bottom: 4%
+    padding-bottom: 43%
 
 
 }
@@ -52,9 +51,9 @@ h1{
     float: right;
     width:250px;
     height: 250px;
-    padding-top: 6%;
+    padding-top: 7%;
     padding-left:150px;
-    padding-bottom:6%;
+    padding-bottom:32%;
     margin-inline-start:55%;
 
 
@@ -65,7 +64,7 @@ section{
     color:#777;
     background:#ebebeb;
     padding-top:5%;
-    padding-bottom: 5%;
+    padding-bottom: 15%;
     margin-inline-end: 45%;
     height:150px;
     width:495px;
@@ -108,7 +107,9 @@ b{
     color:#777;
     background:#ebebeb;
     padding-block-end: 3%;
-    
+    padding-inline-start: 3%;
+    padding-left:3%;
+     
 
 }
 
